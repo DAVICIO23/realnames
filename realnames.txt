@@ -1,4 +1,36 @@
 //Peru
+0:1:555997320	*	Disturbi0.pe
+0:0:554923203	*	Cleyner.pe
+0:1:506549307	*	Beans.pe
+0:0:610467891	*	Kaio-ken.pe
+0:1:555159227	*	fake2.pe
+0:1:554797707	*	katup.pe
+0:0:530866756	*	AKUMA.pe
+0:0:147292495	*	Electro87.pe
+0:0:309333309	*	[ASSASIN]GAAAAAAAAAAAA.pe
+0:0:48368249	*	0wen77.pe
+0:1:116249060	*	BrianLS.pe
+0:1:532940000	*	Miskito.pe
+0:0:1185629837	*	FAKE2.pe
+0:1:194904683	*	M a r c o h o l i c o.pe
+0:0:108099454	*	JALABOLAS.pe
+0:0:822314645	*	party.pe
+0:0:217916983	*	:).pe
+0:0:1368337659	*	+++++++.pe
+0:0:443644909	*	alex del pozo.pe
+0:1:182947220	*	Zelayes-Kun.pe
+0:0:390624613	*	Nicole.pe
+0:0:1844190725	*	Raz.pe
+0:0:768080309	*	iZayrox|ys99|.pe
+0:0:78370801	*	Kimi.pe
+0:1:80108155	*	Cleyner.pe
+0:0:506960393	*	kelovi.pe
+0:1:246431862	*	Virus.pe
+0:0:219221999	*	RoBmAn.pe
+0:0:1335591418	*	Desmond.pe
+0:1:100602348	*	Edi.pe
+0:0:1025095646	*	fake.pe
+0:0:1123067694	*	ParKER.pe
 0:1:36505001	*	AnGeL.pe
 0:1:541464828	*	FDJ - MR.pe
 0:0:1803630139	*	Renzo.pe
@@ -24,6 +56,7 @@
 0:0:456274476	*	^monarch!
 0:1:93654258	*	Hector.pe
 0:0:1187091186	*	Luna.pe / Drox.pe
+0:0:456392980	*	Luna.pe
 0:1:510464553	*	Vendetta.pe
 0:0:1063148421	*	Yarita Lizeth.pe
 0:0:1851351495	*	skik.pe
@@ -124,6 +157,7 @@
 0:1:188942360	*	Jhoan.pe
 0:0:2088839526	*	Jhoan.pe
 0:0:1811890103	*	NIRVAM.pe
+0:0:240863861	*	NIRVAM.pe
 0:0:144290557	*	a.pe
 0:0:1934265002	*	knd.pe
 0:0:111023139	*	knd.pe
@@ -180,7 +214,7 @@
 0:0:212432259	*	Hanako.pe
 0:0:1040309322	*	nose3.pe
 0:0:1222829658	*	WilsoftNET.pe
-0:1:84430599	*	Jose.pe
+0:1:84430599	*	Kaio-ken.pe
 0:0:343147160	*	RIOT.pe
 0:0:1818046749	*	RIOT.pe
 0:0:654841753	*	Edgar.pe
@@ -202,7 +236,7 @@
 0:0:406085611	*	Cabinet.pe
 0:0:1207781323	*	Cabinet.pe
 0:0:474805343	*	Yellowcard.pe
-0:0:1469845496	*	k.pe
+0:0:1469845496	*	Lausurpadora.pe
 0:0:685929805	*	razZa.pe
 0:0:404440333	*	razZa.pe
 0:0:171898014	*	razZa.pe
@@ -1909,6 +1943,22 @@
 0:1:30002950	*	Ninya.uk
 0:1:9057439	*	terq.uk
 //Argentina.ar
+0:0:94238448	*	Reznik.ar
+0:1:109190697	*	naniss.ar
+0:1:42185013	*	Luchox.ar
+0:1:208126050	*	Ntx.ar
+0:0:1650974972	*	TIBURONSI.ar
+0:0:1424085409	*	daniel.ar
+0:0:52575268	*	Isma.ar
+0:0:184438380	*	rom.ar
+0:1:536727144	*	ox.ar
+0:0:96737221	*	MaX`Bizkit.ar
+0:0:1989120743	*	f3r.ar
+0:0:215120976	*	zasko.ar
+0:1:94174520	*	Panda.ar
+0:0:497170818	*	tronc.ar
+0:1:201117828	*	Haters.ar
+0:0:200452753	*	Gauss.ar
 0:0:507416431	*	ToxmoN.ar
 0:0:1229167672	*	beek.ar
 0:0:1351190457	*	Roman.ar
@@ -2931,6 +2981,7 @@
 0:1:3682018	*	NeRo.at
 0:0:34200004	*	--DeL-PiYaDE--.at
 //Uruguay.uy
+0:0:81019569	*	Pezezito.uy
 0:0:38285830	*	Brutus.uy
 0:0:26005173	*	Z7.uy
 0:1:33132360	*	Nicko.uy
@@ -3303,7 +3354,7 @@
 0:0:564503	*	Wadya.??
 0:0:555563	*	V-Class.??
 0:0:547257	*	oj.??
-0:0:570	*		*	White Tiger.??
+0:0:570		*	White Tiger.??
 0:0:70126	*	Arse.??
 0:0:67261	*	Volcano.??
 0:0:68095	*	Sepremisissy.??
