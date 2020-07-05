@@ -1,4 +1,4 @@
-//Peru
+//Peru (update 05/07/2020)
 0:0:554923203	*	Cleyner.pe
 0:1:506549307	*	Beans.pe
 0:0:610467891	*	Kaio-ken.pe
