@@ -1,8 +1,14 @@
-//Peru (update 05/07/2020)
+//Peru (update 12/07/2020)
+0:0:1444913596	*	clouD.pe
+0:0:504897064	*	Player one.pe
+0:0:58767014	*	Intel Extreme Masters.pe
+0:0:145355897	*	leonN.pe
+0:1:555997320	*	Disturbi0.pe
 0:0:554923203	*	Cleyner.pe
 0:1:506549307	*	Beans.pe
+0:0:1928386323	*	Kaio-ken.pe
 0:0:610467891	*	Kaio-ken.pe
-0:1:555159227	*	fake2.pe
+0:1:555159227	*	Tatufex.pe
 0:1:554797707	*	katup.pe
 0:0:530866756	*	AKUMA.pe
 0:0:147292495	*	Electro87.pe
@@ -165,6 +171,7 @@
 0:0:956164093	*	Eliaz.pe
 0:0:1863200378	*	Eliaz.pe
 0:0:186336430	*	Eliaz.pe
+0:0:22410116	*	Ca$h.pe
 0:0:244098545	*	Ca$h.pe
 0:0:1948256714	*	Ca$h.pe
 0:0:1715340280	*	ku$h.pe
@@ -231,6 +238,7 @@
 0:0:1875940270	*	nose3.pe
 0:0:1619163976	*	WilsoftNET.pe
 0:0:183997316	*	Leca.pe
+0:0:97302021	*	Leca.pe
 0:0:1495476863	*	Cabinet.pe
 0:0:406085611	*	Cabinet.pe
 0:0:1207781323	*	Cabinet.pe
@@ -434,7 +442,6 @@
 0:0:18962180	*	diazepunk.pe
 0:0:454843813	*	JuaNka.pe
 0:0:478864573	*	JeffNero.pe
-0:1:555997320	*	Disturbi0.pe
 0:0:1346081071	*	miguel.pe
 0:0:592093638	*	Doctrine Dark.pe
 0:0:30790036	*	UrbanxZ.pe
@@ -1943,6 +1950,9 @@
 0:1:30002950	*	Ninya.uk
 0:1:9057439	*	terq.uk
 //Argentina.ar
+0:1:96859934	*	wAsho.ar
+0:1:109190697	*	Orochii.ar
+0:0:104376784	*	k1.ar
 0:0:94238448	*	Reznik.ar
 0:1:109190697	*	naniss.ar
 0:1:42185013	*	Luchox.ar
