@@ -1,11 +1,34 @@
-//Peru (update 12/07/2020)
+//Peru (04/08/2020)
+0:1:557324323	*	navas.pe
+0:0:1148374031	*	navas.pe
+0:0:14190060	*	Boyascky.pe
+0:0:1951481076	*	PredatoR-95.pe
+0:0:509672791	*	NO GAME NO LIFE.pe
+0:0:449386115	*	DUKO445.pe
+0:0:22560409	*	DUKO445.pe
+0:0:551619277	*	Juliana.pe
+0:0:1315017263	*	Leipzig.pe
+1:0:1315017263	*	Leipzig.pe
+0:1:14455855	*	Zergcito.pe
+1:0:1221295962	*	dino.pe
+0:0:1221295962	*	dino.pe
+0:0:2031750822	*	jajaja.pe
+1:0:2031750822	*	jajaja.pe
+0:0:174617202	*	Renzo.pe
+0:1:242688455	*	Joel-28.pe
+0:0:451203682	*	Chancleta.pe
+0:1:554979102	*	Zhadow Of The Dark.pe
+0:0:1091654050	*	nuevo1.pe
+0:1:109745389	*	Ozzy.pe
+0:1:26902465	*	LuCkyShooT.pe
 0:0:1444913596	*	clouD.pe
-0:0:504897064	*	Player one.pe
+0:0:504897064	*	Cliver.pe
 0:0:58767014	*	Intel Extreme Masters.pe
 0:0:145355897	*	leonN.pe
 0:1:555997320	*	Disturbi0.pe
 0:0:554923203	*	Cleyner.pe
 0:1:506549307	*	Beans.pe
+1:0:1928386323	*	Kaio-ken.pe
 0:0:1928386323	*	Kaio-ken.pe
 0:0:610467891	*	Kaio-ken.pe
 0:1:555159227	*	Tatufex.pe
@@ -17,7 +40,7 @@
 0:1:116249060	*	BrianLS.pe
 0:1:532940000	*	Miskito.pe
 0:0:1185629837	*	FAKE2.pe
-0:1:194904683	*	M a r c o h o l i c o.pe
+0:1:194904683	*	Marcoholico.pe
 0:0:108099454	*	JALABOLAS.pe
 0:0:822314645	*	party.pe
 0:0:217916983	*	:).pe
@@ -25,6 +48,8 @@
 0:0:443644909	*	alex del pozo.pe
 0:1:182947220	*	Zelayes-Kun.pe
 0:0:390624613	*	Nicole.pe
+1:0:1717881192	*	Raz.pe
+0:0:1717881192	*	Raz.pe
 0:0:1844190725	*	Raz.pe
 0:0:768080309	*	iZayrox|ys99|.pe
 0:0:78370801	*	Kimi.pe
@@ -58,7 +83,8 @@
 0:1:112591987	*	timoteo.pe
 0:0:1387823845	*	573V3N.pe
 0:0:1922143166	*	w.pe
-0:0:456274476	*	^monarch!
+0:0:456274476	*	^monarch!.pe
+0:0:223796815	*	Hector.pe
 0:1:93654258	*	Hector.pe
 0:0:1187091186	*	Luna.pe / Drox.pe
 0:0:456392980	*	Luna.pe
@@ -134,6 +160,7 @@
 0:1:810841893	*	BrunoLB.pe
 0:0:157646989	*	MISTERIO.pe
 0:0:975402972	*	neta.pe
+0:0:60086368	*	TSG 1899 Hoffenheim.pe
 0:0:581206812	*	TSG 1899 Hoffenheim.pe
 0:0:17070307	*	orchid.pe
 0:0:1253377975	*	Dutty.pe
@@ -149,6 +176,8 @@
 0:0:1368603792	*	BullsOP.pe
 0:0:56962346	*	ku$h.pe no estoy seguro
 0:0:2099492865	*	ku$h.pe no estoy seguro
+0:0:108400922	*	ku$h.pe
+1:0:108400922	*	ku$h.pe
 0:0:441460713	*	ku$h.pe
 0:1:220558711	*	bananel.pe
 0:0:982085954	*	Jheimicito.pe
@@ -171,6 +200,8 @@
 0:0:956164093	*	Eliaz.pe
 0:0:1863200378	*	Eliaz.pe
 0:0:186336430	*	Eliaz.pe
+0:0:1743397864	*	Ca$h.pe
+1:0:1743397864	*	Ca$h.pe
 0:0:22410116	*	Ca$h.pe
 0:0:244098545	*	Ca$h.pe
 0:0:1948256714	*	Ca$h.pe
@@ -220,7 +251,7 @@
 0:0:212432259	*	Hanako.pe
 0:0:1040309322	*	nose3.pe
 0:0:1222829658	*	WilsoftNET.pe
-0:1:84430599	*	Kaio-ken.pe
+0:1:84430599	*	Jose.pe
 0:0:343147160	*	RIOT.pe
 0:0:1818046749	*	RIOT.pe
 0:0:654841753	*	Edgar.pe
@@ -237,7 +268,10 @@
 0:0:1418238008	*	Yellowcard.pe
 0:0:1875940270	*	nose3.pe
 0:0:1619163976	*	WilsoftNET.pe
+0:0:1512512698	*	Leca.pe
 0:0:183997316	*	Leca.pe
+1:0:97302021	*	Leca.pe
+1:0:1512512698	*	Leca.pe
 0:0:97302021	*	Leca.pe
 0:0:1495476863	*	Cabinet.pe
 0:0:406085611	*	Cabinet.pe
@@ -281,7 +315,7 @@
 0:0:122639082	*	ZeuS.pe 
 0:0:19413076	*	STAIND.pe
 0:0:96964656	*	Freddy.pe	
-0:0:94199085	*	DiegoC.pe
+0:0:94199085	*	rhye.pe
 0:0:670179301	*	Ozzy.pe
 0:0:1612140585	*	Ozzy.pe
 0:0:1496157832	*	Beatz.pe
@@ -515,6 +549,7 @@
 0:0:1671269505	*	DontCareOskY.pe
 0:0:1765072513	*	Shileno.cl
 0:0:744016203	*	KaBum.cl
+0:1:430398553	*	Cristo.cl
 0:0:381829109	*	knd.pe
 //Russia.ru
 0:0:73739339	*	Bkmz.ru
@@ -1950,9 +1985,42 @@
 0:1:30002950	*	Ninya.uk
 0:1:9057439	*	terq.uk
 //Argentina.ar
+0:0:243271802	*	waileerr.ar
+0:1:556452626	*	fed.ar
+0:1:111114765	*	Fanatic.ar
+0:1:97954144	*	R4n.ar
+0:1:243141615	*	Gauss.ar	
+0:1:243671080	*	Kelune.ar
+0:0:195931723	*	Ztx.ar
+0:0:554603881	*	Slider.ar
+0:1:8315593	*	ailufor.ar
+0:0:33940431	*	Ar!eeL.ar
+0:0:11791588	*	DieGo.ar
+0:1:505499692	*	necro.ar
+0:0:521137393	*	KiosseR.ar
+0:1:43734508	*	giNe.ar
+0:1:552747949	*	Cobra.ar
+0:1:553484917	*	Adidas.ar
+0:1:9473175	*	er!ck.ar
+0:1:212880248	*	Duh.ar
+0:0:546867144	*	r!cky.ar
+0:1:106574756	*	Toksic.ar
+0:0:98251328	*	Insidious.ar
+1:0:1177880026	*	Dylan.ar
+0:1:109460007	*	Not'.ar
+0:1:84273359	*	Nax.ar
+0:1:184383555	*	gohaN.ar
+0:0:218036328	*	wez.ar
+0:0:197816701	*	Lula.ar
+0:1:90601815	*	PerfecT.ar
+0:1:224078011	*	theoriginal.ar
+0:1:155428174	*	nicogeist.ar
+0:0:156066415	*	Nahue.ar
+0:0:1886281646	*	Cross.ar
+0:0:54329539	*	Cross.ar
 0:1:96859934	*	wAsho.ar
 0:1:109190697	*	Orochii.ar
-0:0:104376784	*	k1.ar
+0:0:104376784	*	kend0.ar
 0:0:94238448	*	Reznik.ar
 0:1:109190697	*	naniss.ar
 0:1:42185013	*	Luchox.ar
@@ -1972,7 +2040,8 @@
 0:0:507416431	*	ToxmoN.ar
 0:0:1229167672	*	beek.ar
 0:0:1351190457	*	Roman.ar
-0:1:523496185	*	Relax.ar
+0:1:61645002	*	relax.ar
+0:1:523496185	*	relax.ar
 0:0:530500259	*	drAke.ar
 0:1:118676457	*	Stigma.ar
 0:1:50687625	*	kocainez.ar
@@ -1989,6 +2058,7 @@
 0:0:441355832	*	CACHI.ar
 0:1:245306329	*	voksius.ar
 0:1:120459928	*	wildauzzie.ar
+0:1:198721741	*	Flint.ar
 0:0:1823469206	*	Flint.ar
 0:0:1064326797	*	Gothenss.ar
 0:0:1082412423	*	NikiTuu.ar
@@ -2001,6 +2071,7 @@
 0:1:846095	*	zero.ar
 0:0:38002740	*	necro.ar
 0:1:78253	*	shadow.ar
+0:0:44310068	*	shamek.ar
 0:1:8315628	*	shamek.ar
 0:0:54236542	*	gok.ar
 0:0:28513963	*	KaoZ.ar
@@ -2029,6 +2100,7 @@
 0:1:47969726	*	Lautaro.ar
 0:0:29586697	*	mxitho.ar
 0:0:27323959	*	Wobo.ar
+0:0:461515647	*	KnoT.ar
 0:1:37958394	*	KnoT.ar
 0:1:39429810	*	Rocho.ar
 0:1:28204760	*	Bagu.ar
@@ -2112,6 +2184,7 @@
 0:0:177070649	*	Travuca.ar
 0:0:66388916	*	Travuca.ar
 //Brazil.br
+0:0:85362474	*	Tesla.br
 0:1:34291930	*	Alucard.br
 0:1:196168117	*	opXamas.br
 0:1:42965680	*	raisson.br
